@@ -1,5 +1,4 @@
-This repository contains my project work for a time series analysis assignment. The primary focus of the project was to develop a robust forecasting model using the ARIMA (AutoRegressive Integrated Moving Average) method. The analysis was performed using R, and the dataset involved a univariate time series relevant to [describe the domain or context of the data, e.g., sales, temperature readings, etc.].
-
+This repository contains my project work for a time series analysis assignment. The primary focus of the project was to develop a robust forecasting model using the ARIMA (AutoRegressive Integrated Moving Average) method. The analysis was performed using R, and the dataset involved a univariate time series data.
 Key aspects of the project:
 
 Preliminary data analysis to understand the underlying patterns and structures.
